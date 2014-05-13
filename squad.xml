@@ -64,9 +64,11 @@
 			<mission codename='PAYDIRT'>
 				<description>Appropriate funds for future mercenary operations.</description>
 				<date>Aug 18 2013</date>
-				<objective success="0" outcomedetails="Prevented by false doors">Silently Infiltrate the Bank</objective>
-				<objective success="0" outcomedetails="Gold spontaneously combusted">Locate and Acquire Gold Assets</objective>
-				<objective success="1">Exfiltrate</objective>
+				<objectives>
+					<objective success="0" outcomedetails="Prevented by false doors">Silently Infiltrate the Bank</objective>
+					<objective success="0" outcomedetails="Gold spontaneously combusted">Locate and Acquire Gold Assets</objective>
+					<objective success="1">Exfiltrate</objective>
+				</objectives>
 				<screenshots>
 					<screenshot caption="Encountering ACME false-door technology">http://cloud-2.steampowered.com/ugc/919019506154578241/DFB1706A4EEC91A8BCB7F99E6F6DDFE855AB75F5/</screenshot>
 					<screenshot caption="Spontaneous thermic event">http://cloud-4.steampowered.com/ugc/919019506154599570/93239714348C87E69717D66F452C556E63CEF4D3/</screenshot>
