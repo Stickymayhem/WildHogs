@@ -4,7 +4,7 @@
 <squad nick="Wild Hogs">
 	<name>Wild Hogs</name>
 	<email>wildhogs@canadian-pharmacy.us</email>
-	<web>http://steamcommunity.com/groups/tactical_geniuses</web>
+	<web>http://wildhogs.canadian-pharmacy.us</web>
 	<picture>insignia.paa</picture>
 	<title>Wild Hogs</title>
 	<member id="76561198004648109" nick="Petethegoat">
@@ -296,6 +296,9 @@
 				<operative id="76561198018148790" nick="Neerti">
 					<contributions></contributions>
 				</operative>
+				<operative id="76561198000729452" nick="Pinky">
+					<contributions>Pinky griffed up some knight scrubs as a builder. Griffliness is next to godliness.</contributions>
+				</operative>
 			</operatives>
 		</mission>
 		<mission codename='DIRIGIBLE'>
@@ -323,6 +326,9 @@
 				</operative>
 				<operative id="76561198003762609" nick="Marza">
 					<contributions>Marza took charge like a motherfucker and told us what to do, and we fucking done did it, and we fucking won.</contributions>
+				</operative>
+				<operative id="76561198000729452" nick="Pinky">
+					<contributions>Pinky avoided flying us into giant rocks and the remains of greater airships, mostly.</contributions>
 				</operative>
 			</operatives>
 		</mission>
