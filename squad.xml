@@ -52,14 +52,28 @@
 		<name>An0n3</name>
 		<email></email>
 		<icq></icq>
-		<remark>kawaii in the streets, sempai in the sheets</remark>
+		<remark>kawaii in the streets, senpai in the sheets</remark>
 		<displayname>Biff Fistpunch</displayname>
 		<bio>Biff inherited the secret martial art of Punch Punching from his father and now puts his combat prowess to use for the Wild Hogs. Strangely, nobody has ever seen him actually punch anyone on the battlefield.</bio>
 		<picture>http://i.imgur.com/8lHkO5a.jpg?1</picture>
-		<dateenlisted></dateenlisted>
-		<nationality></nationality>
-		<birthday></birthday>
-		<age></age>
+		<dateenlisted>Classified</dateenlisted>
+		<nationality>Classified</nationality>
+		<birthday>Classified</birthday>
+		<age>Classified</age>
+		<individualmissions>
+			<mission codename='PAYDIRT'>
+				<description>Appropriate funds for future mercenary operations.</description>
+				<date>Aug 18 2013</date>
+				<objective success="0" outcomedetails="Prevented by false doors">Silently Infiltrate the Bank</objective>
+				<objective success="0" outcomedetails="Gold spontaneously combusted">Locate and Acquire Gold Assets</objective>
+				<objective success="1">Exfiltrate</objective>
+				<screenshots>
+					<screenshot caption="Encountering ACME false-door technology">http://cloud-2.steampowered.com/ugc/919019506154578241/DFB1706A4EEC91A8BCB7F99E6F6DDFE855AB75F5/</screenshot>
+					<screenshot caption="Spontaneous thermic event">http://cloud-4.steampowered.com/ugc/919019506154599570/93239714348C87E69717D66F452C556E63CEF4D3/</screenshot>
+				</screenshots>
+				<AAR>Biff refuses to deal with banks at all after this experience and claims to keep all his earnings stuffed inside his mattress.</AAR>
+			</mission>
+		</individualmissions>
 	</member>
 	<member id="76561197994864105" nick="K-64">
 		<name>K-64</name>
