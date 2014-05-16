@@ -289,6 +289,12 @@
 		<birthday></birthday>
 		<age>23</age>
 	</member>
+	<member id="76561198001402530" nick="Stickymayhem">
+		<name>Stickymayhem</name>
+		<email></email>
+		<icq></icq>
+		<remark>I guess it LOOKS good enough to skullfuck</remark>
+	</member>
 	<groupmissions>
 		<mission codename='FORTBOOM'>
 			<description>We are red, they are blue. Red superiority demands that we destroy all the halls.</description>
